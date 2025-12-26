@@ -63,7 +63,7 @@ mo optimize --whitelist      # Manage protected optimization rules
 
 ## Tips
 
-- **Terminal**: iTerm2 has known compatibility issues; we recommend Alacritty, kitty, WezTerm, Ghostty, or Warp.
+- **Terminal**: iTerm2 has known compatibility problems; we recommend Alacritty, kitty, WezTerm, Ghostty, or Warp.
 - **Safety**: Built with strict protections. See our [Security Audit](SECURITY_AUDIT.md). Preview changes with `mo clean --dry-run`.
 - **Whitelist**: Manage protected paths with `mo clean --whitelist`.
 - **Touch ID**: Enable Touch ID for sudo commands by running `mo touchid`.
@@ -224,3 +224,9 @@ Adds 5 commands: `clean`, `uninstall`, `optimize`, `analyze`, `status`. Mole aut
 ## License
 
 MIT License - feel free to enjoy and participate in open source.
+
+g
+
+
+
+
